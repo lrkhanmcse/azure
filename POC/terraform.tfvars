@@ -72,8 +72,8 @@ law_ss_name = "law-hub-ss-ci-001"
 
 ## VM Variable
 
-adm_user_name = "idaadm"
-adm_user_pass = "G7K^&g*%+#K"
+adm_user_name = "***"
+adm_user_pass = "***"
 
 ## Availability Sets
 as_php1 = "as-vm-php01"
